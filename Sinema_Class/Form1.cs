@@ -31,7 +31,7 @@ namespace Sinema_Class
             }
             else
             {
-                s.indirimalis = false;
+                s.indirimalis = true;
             }
             s.biletsatis();
 
